@@ -1,6 +1,11 @@
 # documents
 
 ### 常用
+<a href="https://github.com/" target="_blank">Github</a>
+<a href="http://v2ex.com/" target="_blank">V2EX</a>
+<a href="https://segmentfault.com" target="_blank">Segmentfault</a>
+<a href="http://div.io/" target="_blank">div.io</a>
+<a href="https://github.com/unclay/wechat-doc" target="_blank">wechat-doc</a>
 <a href="http://caniuse.com/" target="_blank">caniuse</a>
 
 ### html
