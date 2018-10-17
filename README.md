@@ -17,9 +17,18 @@ Community | Community | Community
 
 ## 文档社区
 
-Document | Document | Document
+Community | Community | Community
 --- | --- | ---
 [云雀](https://www.yuque.com/) |  |
+
+
+## 英文社区
+
+Document | Document | Document
+--- | --- | ---
+[Stack Overflow](https://stackoverflow.com) | [Hacker News](https://news.ycombinator.com) | [InfoQ](https://www.infoq.com/)
+[JavaScript Weekly](https://javascriptweekly.com/issues) | [Google+](https://plus.google.com/)
+
 
 ### 常用
 <a href="https://github.com/unclay/wechat-doc" target="_blank">wechat-doc</a>
