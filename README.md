@@ -8,6 +8,7 @@ Team | Team | Team
 [美团技术团队](https://tech.meituan.com) |  | 
 
 ## 技术社区
+
 Community | Community | Community
 --- | --- | ---
 [前端乱炖](http://www.html-js.com) | [大前端](http://www.daqianduan.com) | [前端网](http://www.qdfuns.com)
@@ -28,6 +29,19 @@ Document | Document | Document
 --- | --- | ---
 [Stack Overflow](https://stackoverflow.com) | [Hacker News](https://news.ycombinator.com) | [InfoQ](https://www.infoq.com/)
 [JavaScript Weekly](https://javascriptweekly.com/issues) | [Google+](https://plus.google.com/)
+
+## 语言学习
+
+Language | Language | Language
+--- | --- | ---
+[Lingvist](http://www.lingvist.com) | [多邻国](http://www.duolingo.cn/) | [TED](https://www.ted.com/)
+
+## 博客
+
+Blog | Blog | Blog
+--- | --- | ---
+[阮一峰](http://www.ruanyifeng.com/blog/) | [张鑫旭](https://www.zhangxinxu.com/wordpress/) | [stormzhang](http://stormzhang.com/)
+[大漠](https://www.w3cplus.com/) | |
 
 
 ### 常用
