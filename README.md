@@ -28,7 +28,7 @@ Community | Community | Community
 Document | Document | Document
 --- | --- | ---
 [Stack Overflow](https://stackoverflow.com) | [Hacker News](https://news.ycombinator.com) | [InfoQ](https://www.infoq.com/)
-[JavaScript Weekly](https://javascriptweekly.com/issues) | [Google+](https://plus.google.com/)
+[JavaScript Weekly](https://javascriptweekly.com/issues) | [Google+](https://plus.google.com/) | [Medium](https://medium.com/)
 
 ## 语言学习
 
