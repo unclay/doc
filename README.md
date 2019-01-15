@@ -29,19 +29,13 @@ Document | Document | Document
 --- | --- | ---
 [Stack Overflow](https://stackoverflow.com) | [Hacker News](https://news.ycombinator.com) | [InfoQ](https://www.infoq.com/)
 [JavaScript Weekly](https://javascriptweekly.com/issues) | [Google+](https://plus.google.com/) | [Medium](https://medium.com/)
+[freeCodeCamp](https://medium.freecodecamp.org/) | |
 
 ## 语言学习
 
 Language | Language | Language
 --- | --- | ---
 [Lingvist](http://www.lingvist.com) | [多邻国](http://www.duolingo.cn/) | [TED](https://www.ted.com/)
-
-## 博客
-
-Blog | Blog | Blog
---- | --- | ---
-[阮一峰](http://www.ruanyifeng.com/blog/) | [张鑫旭](https://www.zhangxinxu.com/wordpress/) | [stormzhang](http://stormzhang.com/)
-[大漠](https://www.w3cplus.com/) | |
 
 
 ### 常用
