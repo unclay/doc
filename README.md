@@ -38,6 +38,13 @@ Language | Language | Language
 [Lingvist](http://www.lingvist.com) | [多邻国](http://www.duolingo.cn/) | [TED](https://www.ted.com/)
 
 
+## 有趣站点
+
+Interesting | Interesting | Interesting
+--- | --- | ---
+[世界人口](https://countrymeters.info/cn/World) | [AI人像](https://thispersondoesnotexist.com)
+
+
 ### 常用
 <a href="https://github.com/unclay/wechat-doc" target="_blank">wechat-doc</a>
 <a href="http://caniuse.com/" target="_blank">caniuse</a>
