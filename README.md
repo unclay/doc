@@ -45,6 +45,13 @@ Interesting | Interesting | Interesting
 [世界人口](https://countrymeters.info/cn/World) | [AI人像](https://thispersondoesnotexist.com)
 
 
+## 好文
+
+Artical |
+--- |
+[7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83) 
+
+
 ### 常用
 <a href="https://github.com/unclay/wechat-doc" target="_blank">wechat-doc</a>
 <a href="http://caniuse.com/" target="_blank">caniuse</a>
