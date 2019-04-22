@@ -31,7 +31,7 @@ Document | Document | Document
 Weekly | Weekly | Weekly
 --- | --- | ---
 [奇舞周刊](https://weekly.75team.com) | [阮一峰分享周刊](https://github.com/ruanyf/weekly) | [JavaScript Weekly](https://javascriptweekly.com/latest)
-[Node Weekly](https://nodeweekly.com/latest) | [阿里 DT-FE 周刊](https://github.com/dt-fe/weekly) | [百度 FEX 周刊](http://fex.baidu.com/weekly/)
+[Node Weekly](https://nodeweekly.com/latest) | [阿里 DT-FE 周刊](https://github.com/dt-fe/weekly) | [百度 FEX 周刊](http://fex.baidu.com/weekly/) | [阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
 
 
 
