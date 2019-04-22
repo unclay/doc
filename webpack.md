@@ -28,15 +28,15 @@ $ npm install --save-dev babel-preset-stage-3
     "es2015",
     "stage-0"
   ],
-  plugins: []
+  "plugins": []
 }
 ```
 配置webpack的loader
 ```json
 {
-  test: /\.js$/,
-  loader: 'babel',
-  exclude: /node_modules/
+  "test": /\.js$/,
+  "loader": "babel",
+  "exclude": /node_modules/
 }
 ```
 
@@ -66,8 +66,8 @@ $ npm install --save-dev sass-loader
 
 ```json
 {
-  test: /\.less/,
-  loader: 'style!css!postcss!less'
+  "test": /\.less/,
+  "loader": "style!css!postcss!less"
 }
 ```
 
@@ -85,8 +85,8 @@ $ npm install --save-dev url-loader
 
 ```json
 {
-  test: /\.(png|jpg|gif)$/,
-  loader: 'url?limit=8192&name=./img/[hash].[ext]'
+  "test": /\.(png|jpg|gif)$/,
+  "loader": "url?limit=8192&name=./img/[hash].[ext]"
 }
 ```
 
@@ -104,7 +104,7 @@ $ npm install --save-dev vue-loader
 
 ```json
 {
-  test: /\.vue$/,
-  loader: 'vue'
+  "test": /\.vue$/,
+  "loader": "vue"
 }
 ```
