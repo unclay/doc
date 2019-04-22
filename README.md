@@ -14,13 +14,7 @@ Community | Community | Community
 [前端乱炖](http://www.html-js.com) | [大前端](http://www.daqianduan.com) | [前端网](http://www.qdfuns.com)
 [CSDN](http://www.csdn.net) | [开源中国](https://www.oschina.net) | [CNODE](https://cnodejs.org)
 [掘金](https://juejin.im) | [segmentfault](https://segmentfault.com) | [V2EX](https://www.v2ex.com)
-[DIV.IO](https://div.io) | [Github](https://github.com) |
-
-## 文档社区
-
-Community | Community | Community
---- | --- | ---
-[云雀](https://www.yuque.com/) |  |
+[DIV.IO](https://div.io) | [Github](https://github.com) | [InfoQ 前端专栏](https://www.infoq.cn/topic/33)
 
 
 ## 英文社区
@@ -29,7 +23,24 @@ Document | Document | Document
 --- | --- | ---
 [Stack Overflow](https://stackoverflow.com) | [Hacker News](https://news.ycombinator.com) | [InfoQ](https://www.infoq.com/)
 [JavaScript Weekly](https://javascriptweekly.com/issues) | [Google+](https://plus.google.com/) | [Medium](https://medium.com/)
-[freeCodeCamp](https://medium.freecodecamp.org/) | |
+[freeCodeCamp](https://medium.freecodecamp.org/) |  |
+
+
+## 周刊
+
+Weekly | Weekly | Weekly
+--- | --- | ---
+[奇舞周刊](https://weekly.75team.com) | [阮一峰分享周刊](https://github.com/ruanyf/weekly) | [JavaScript Weekly](https://javascriptweekly.com/latest)
+[Node Weekly](https://nodeweekly.com/latest) | [阿里 DT-FE 周刊](https://github.com/dt-fe/weekly) | [百度 FEX 周刊](http://fex.baidu.com/weekly/)
+
+
+
+## 文档社区
+
+Community | Community | Community
+--- | --- | ---
+[云雀](https://www.yuque.com/) |  |
+
 
 ## 语言学习
 
@@ -56,16 +67,25 @@ Artical |
 
 Tool | Tool | Tool
 --- | --- | ---
-[iconsvg](https://iconsvg.xyz/) | 
+[iconsvg](https://iconsvg.xyz/) | [Can I use](http://caniuse.com/) | [代码差异比较－diffchecker](https://www.diffchecker.com)
+[图片压缩－tinypng](https://tinypng.com/) | [图片转 base64](http://tool.css-js.com/base64.html) | [智图：图片优化](http://zhitu.isux.us)
+[合成精灵图、雪碧图](http://alloyteam.github.io/gopng/)
+
+## 常用
+
+Commonly  | Commonly  | Commonly 
+--- | --- | ---
+[微信开发](https://github.com/unclay/wechat-doc) 
 
 
+## 构建工具
 
-### 常用
-<a href="https://github.com/unclay/wechat-doc" target="_blank">wechat-doc</a>
-<a href="http://caniuse.com/" target="_blank">caniuse</a>
+Build  | Build  | Build 
+--- | --- | ---
+[Webpack 常见说明](https://github.com/unclay/doc/blob/master/webpack.md) 
 
-### 构建工具
-<a href="https://github.com/unclay/doc/blob/master/webpack.md" target="_blank">Webpack</a>  
+
+## 以下为历史，待检查
 
 ### html
 + <a href="http://juicer.name/" target="_blank">juicer</a>  
@@ -76,15 +96,7 @@ Tool | Tool | Tool
 
 ### javascript
 + <a href="http://tool.oschina.net/jscompress" target="_blank">js压缩</a>
-
-### 代码
-+ <a href="https://www.diffchecker.com/" target="_blank">代码差异比较－diffchecker</a>
-
-### 图像  
-+ <a href="http://alloyteam.github.io/gopng/" target="_blank">合成精灵图、雪碧图</a>  
-+ <a href="https://tinypng.com/" target="_blank">图片压缩－tinypng</a>  
-+ <a href="http://zhitu.isux.us/" target="_blank">智图</a>  
-+ <a href="http://tool.css-js.com/base64.html" target="_blank">图片转base64</a>
+ 
 
 ### 多媒体（音频、视频等）  
 <a href="http://www.softpedia.com/get/Multimedia/Audio/Audio-Convertors/DietMP3.shtml" target="_blank">压缩Dietmp3</a>  
@@ -102,4 +114,3 @@ Tool | Tool | Tool
 ### 日期时间
 + <a href="http://tool.chinaz.com/Tools/unixtime.aspx" target="_blank">时间戳unixtime</a>
 
-### 
