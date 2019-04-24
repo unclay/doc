@@ -37,9 +37,9 @@ Weekly | Weekly | Weekly
 
 ## 文档社区
 
-Community
----
-[云雀](https://www.yuque.com/) 
+Community | Community | Community
+--- | --- | ---
+[云雀](https://www.yuque.com/) | |
 
 
 ## 语言学习
@@ -58,16 +58,16 @@ Interesting | Interesting | Interesting
 
 ## 好文
 
-Artical
----
-[7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83)
+Artical | Community | Community
+--- | --- | ---
+[7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83) | |
 
 
 ## 画图
 
-Drawing
----
-[代码画流程图](https://code2flow.com)
+Drawing | Drawing | Drawing
+--- | --- | ---
+[代码画流程图](https://code2flow.com) | |
 
 ## 前端工具站点
 
@@ -79,9 +79,9 @@ Tool | Tool | Tool
 
 ## 常用
 
-Commonly
----
-[微信开发](https://github.com/unclay/wechat-doc) 
+Commonly | Commonly | Commonly
+--- | --- | ---
+[微信开发](https://github.com/unclay/wechat-doc) | |
 
 
 ## 构建工具
