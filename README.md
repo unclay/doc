@@ -31,14 +31,14 @@ Document | Document | Document
 Weekly | Weekly | Weekly
 --- | --- | ---
 [奇舞周刊](https://weekly.75team.com) | [阮一峰分享周刊](https://github.com/ruanyf/weekly) | [JavaScript Weekly](https://javascriptweekly.com/latest)
-[Node Weekly](https://nodeweekly.com/latest) | [阿里 DT-FE 周刊](https://github.com/dt-fe/weekly) | [百度 FEX 周刊](http://fex.baidu.com/weekly/) | [阿里云前端技术周刊](https://github.com/aliyunfe/weekly)
-
+[Node Weekly](https://nodeweekly.com/latest) | [阿里 DT-FE 周刊](https://github.com/dt-fe/weekly) | [百度 FEX 周刊](http://fex.baidu.com/weekly/) |
+[阿里云前端技术周刊](https://github.com/aliyunfe/weekly) |  |
 
 
 ## 文档社区
 
-Community |
---- |
+Community
+---
 [云雀](https://www.yuque.com/) 
 
 
@@ -53,20 +53,20 @@ Language | Language | Language
 
 Interesting | Interesting | Interesting
 --- | --- | ---
-[世界人口](https://countrymeters.info/cn/World) | [AI人像](https://thispersondoesnotexist.com)
+[世界人口](https://countrymeters.info/cn/World) | [AI人像](https://thispersondoesnotexist.com) | |
 
 
 ## 好文
 
-Artical |
---- |
-[7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83) 
+Artical
+---
+[7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83)
 
 
 ## 画图
 
-Drawing |
---- |
+Drawing
+---
 [代码画流程图](https://code2flow.com)
 
 ## 前端工具站点
@@ -79,16 +79,16 @@ Tool | Tool | Tool
 
 ## 常用
 
-Commonly  |
---- |
+Commonly
+---
 [微信开发](https://github.com/unclay/wechat-doc) 
 
 
 ## 构建工具
 
-Build  | Build  | Build 
+Build  | Build  | Build
 --- | --- | ---
-[Webpack 常见说明](https://github.com/unclay/doc/blob/master/webpack.md) 
+[Webpack 常见说明](https://github.com/unclay/doc/blob/master/webpack.md) | |
 
 
 ## 以下为历史，待检查
