@@ -52,6 +52,9 @@ $ npm install --save-dev style-loader
 # 加载css文件，例如 @import，url()等等加载进来的文件
 $ npm install --save-dev css-loader
 
+# 将css放进style标签，并插入到页面中
+$ npm install --save-dev style-loader
+
 # 后处理器，例如后处理浏览器兼容前缀等
 $ npm install --save-dev postcss-loader
 
@@ -62,7 +65,7 @@ $ npm install --save-dev less-loader
 $ npm install --save-dev sass-loader
 ```
 
-配置webpack的loader
+配置webpack的loader，loader是从右到左执行的
 
 ```json
 {
