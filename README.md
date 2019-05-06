@@ -54,7 +54,7 @@ Language | Language | Language
 Interesting | Interesting | Interesting
 --- | --- | ---
 [世界人口](https://countrymeters.info/cn/World) | [AI人像](https://thispersondoesnotexist.com) | |
-
+[头像生成器1](https://getavataaars.com) | [头像生成器2](https://friendlyfaces.co) |
 
 ## 好文
 
