@@ -55,8 +55,8 @@ $ npm install --save-dev css-loader
 # 将css放进style标签，并插入到页面中
 $ npm install --save-dev style-loader
 
-# 后处理器，例如后处理浏览器兼容前缀等
-$ npm install --save-dev postcss-loader
+# 后处理器平台，例如插件后处理浏览器兼容前缀等
+$ npm install --save-dev postcss-loader autoprefixer
 
 # 预处理器，less处理器(个人喜欢less)
 $ npm install --save-dev less-loader
@@ -65,12 +65,25 @@ $ npm install --save-dev less-loader
 $ npm install --save-dev sass-loader
 ```
 
-配置webpack的loader，loader是从右到左执行的
+配置webpack的loader，loader是从右到左执行的(从后往前)
 
 ```json
 {
   "test": /\.less/,
-  "loader": "style!css!postcss!less"
+  "user": [
+    "style-loader",
+    "css-loader?-autoprefixer",
+    {
+      "loader": "postcss-loader",
+      "options": {
+        "plugins": [
+          autoprefixer({
+            browsers: ["iOS > 8", "Android >= 4.1"]
+          })
+        ]
+      }
+    }
+  ]
 }
 ```
 
