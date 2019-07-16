@@ -91,6 +91,13 @@ Build  | Build  | Build
 [Webpack 常见说明](https://github.com/unclay/doc/blob/master/webpack.md) | |
 
 
+## 规范检查
+
+Build  | Build  | Build
+--- | --- | ---
+[eslint](http://eslint.cn/docs/rules/) | [eslint-vuejs](https://eslint.vuejs.org/rules/) |
+
+
 ## 以下为历史，待检查
 
 ### html
