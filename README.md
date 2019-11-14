@@ -88,28 +88,29 @@ Commonly | Commonly | Commonly
 
 Build  | Build  | Build
 --- | --- | ---
-[Webpack 常见说明](https://github.com/unclay/doc/blob/master/webpack.md) | |
-
+[Webpack](https://github.com/unclay/doc/blob/master/webpack.md) | [Rollupjs](https://www.rollupjs.com/) | [Gulpjs](https://www.gulpjs.com.cn/)
 
 ## 规范检查
 
-Build  | Build  | Build
---- | --- | ---
-[eslint](http://eslint.cn/docs/rules/) | [eslint-vuejs](https://eslint.vuejs.org/rules/) |
+Rule | Rule | Rule | Rule
+--- | --- | --- | ---
+[eslint](http://eslint.cn/docs/rules/) | [eslint-vuejs](https://eslint.vuejs.org/rules/) | [eslint-google](https://github.com/google/eslint-config-google) | [eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy)
 
+## 图形引擎
+
+Graphics | Graphics | Graphics | Graphics | Graphics | Graphics
+--- | --- | --- | --- | --- | --- 
+[D3JS](https://github.com/d3/d3/) | [Acharts](http://acharts.github.io/) | [Antv](https://antv.alipay.com/zh-cn/index.html) | [C3JS](https://c3js.org/) | [ChartJS](https://www.chartjs.org/) | [ThreeJS](https://github.com/mrdoob/three.js/)
+[Echarts](https://github.com/apache/incubator-echarts) | [Highcharts](https://www.highcharts.com/) | [Metrics Graphics](https://github.com/metricsgraphics/metrics-graphics) | [Recharts](https://github.com/recharts/recharts) | [Raphael](https://github.com/DmitryBaranovskiy/raphael) | [React Vis](https://github.com/uber/react-vis) | [Metabase](https://github.com/metabase/metabase) | [TauCharts](https://github.com/TargetProcess/tauCharts) | [G3D](https://alibaba.github.io/G3D/)
+[GCanvas](https://github.com/alibaba/GCanvas) | [mapv](https://mapv.baidu.com/) | [spritejs](http://spritejs.org/) | [taucharts](https://taucharts.com/)
+
+### 命令行
+
+CLI | CLI | CLI
+--- | --- | ---
+[awesome-cli](https://github.com/unclay/awesome-cli) | |
 
 ## 以下为历史，待检查
-
-### html
-+ <a href="http://juicer.name/" target="_blank">juicer</a>  
-+ <a href="http://handlebarsjs.com/">handlebars</a>  
-
-### css
-+ <a href="http://www.ruanyifeng.com/blog/2012/06/sass.html" target="_blank">sass语法</a>
-
-### javascript
-+ <a href="http://tool.oschina.net/jscompress" target="_blank">js压缩</a>
- 
 
 ### 多媒体（音频、视频等）  
 <a href="http://www.softpedia.com/get/Multimedia/Audio/Audio-Convertors/DietMP3.shtml" target="_blank">压缩Dietmp3</a>  
@@ -123,7 +124,4 @@ Build  | Build  | Build
 ### 字体  
 + <a href="http://www.iconfont.cn/" target="_blank">矢量图－iconfont</a>  
 + <a href="http://font-spider.org/" target="_blank">字蛛</a>  
-
-### 日期时间
-+ <a href="http://tool.chinaz.com/Tools/unixtime.aspx" target="_blank">时间戳unixtime</a>
 
