@@ -69,14 +69,6 @@ Drawing | Drawing | Drawing
 --- | --- | ---
 [代码画流程图](https://code2flow.com) | |
 
-## 前端工具站点
-
-Tool | Tool | Tool
---- | --- | ---
-[iconsvg](https://iconsvg.xyz/) | [Can I use](http://caniuse.com/) | [代码差异比较－diffchecker](https://www.diffchecker.com)
-[图片压缩－tinypng](https://tinypng.com/) | [图片转 base64](http://tool.css-js.com/base64.html) | [智图：图片优化](http://zhitu.isux.us)
-[合成精灵图、雪碧图](http://alloyteam.github.io/gopng/)
-
 ## 常用
 
 Commonly | Commonly | Commonly
@@ -101,8 +93,9 @@ Rule | Rule | Rule | Rule
 Graphics | Graphics | Graphics | Graphics | Graphics | Graphics
 --- | --- | --- | --- | --- | --- 
 [D3JS](https://github.com/d3/d3/) | [Acharts](http://acharts.github.io/) | [Antv](https://antv.alipay.com/zh-cn/index.html) | [C3JS](https://c3js.org/) | [ChartJS](https://www.chartjs.org/) | [ThreeJS](https://github.com/mrdoob/three.js/)
-[Echarts](https://github.com/apache/incubator-echarts) | [Highcharts](https://www.highcharts.com/) | [Metrics Graphics](https://github.com/metricsgraphics/metrics-graphics) | [Recharts](https://github.com/recharts/recharts) | [Raphael](https://github.com/DmitryBaranovskiy/raphael) | [React Vis](https://github.com/uber/react-vis) | [Metabase](https://github.com/metabase/metabase) | [TauCharts](https://github.com/TargetProcess/tauCharts) | [G3D](https://alibaba.github.io/G3D/)
-[GCanvas](https://github.com/alibaba/GCanvas) | [mapv](https://mapv.baidu.com/) | [spritejs](http://spritejs.org/) | [taucharts](https://taucharts.com/)
+[Echarts](https://github.com/apache/incubator-echarts) | [Highcharts](https://www.highcharts.com/) | [Metrics Graphics](https://github.com/metricsgraphics/metrics-graphics) | [Recharts](https://github.com/recharts/recharts) | [Raphael](https://github.com/DmitryBaranovskiy/raphael) | [React Vis](https://github.com/uber/react-vis)
+[Metabase](https://github.com/metabase/metabase) | [TauCharts](https://github.com/TargetProcess/tauCharts) | [G3D](https://alibaba.github.io/G3D/) | [GCanvas](https://github.com/alibaba/GCanvas) | [mapv](https://mapv.baidu.com/) | [spritejs](http://spritejs.org/)
+[taucharts](https://taucharts.com/) | | | | |
 
 ### 命令行
 
@@ -110,18 +103,11 @@ CLI | CLI | CLI
 --- | --- | ---
 [awesome-cli](https://github.com/unclay/awesome-cli) | |
 
-## 以下为历史，待检查
+## 前端工具站点
 
-### 多媒体（音频、视频等）  
-<a href="http://www.softpedia.com/get/Multimedia/Audio/Audio-Convertors/DietMP3.shtml" target="_blank">压缩Dietmp3</a>  
-<a href="http://pan.baidu.com/s/1i4ozMrr" target="_blank">压缩Dietmp3</a>
-
-### 服务器相关
-+ <a href="http://www.vagrantbox.es/" target="_blank">vagrant镜像文件列表</a>  
-+ <a href="http://docs.vagrantup.com/v2/networking/public_network.html" target="_blank">vagrant网络配置</a>  
-+ <a href="http://socket.io/docs/" target="_blank">socket docs</a>  
-+ <a href="http://npm.taobao.org/" target="_blank">淘宝镜像</a>
-### 字体  
-+ <a href="http://www.iconfont.cn/" target="_blank">矢量图－iconfont</a>  
-+ <a href="http://font-spider.org/" target="_blank">字蛛</a>  
-
+Tool | Tool | Tool
+--- | --- | ---
+[iconsvg](https://iconsvg.xyz/) | [Can I use](http://caniuse.com/) | [代码差异比较－diffchecker](https://www.diffchecker.com) 
+[图片压缩－tinypng](https://tinypng.com/) | [图片转 base64](http://tool.css-js.com/base64.html) | [智图：图片优化](http://zhitu.isux.us) 
+[合成精灵图、雪碧图](http://alloyteam.github.io/gopng/) | [字蛛](http://font-spider.org/) | [矢量图](http://www.iconfont.cn/)
+[压缩Dietmp3](http://www.softpedia.com/get/Multimedia/Audio/Audio-Convertors/DietMP3.shtml) | [下载Dietmp3](http://pan.baidu.com/s/1i4ozMrr) |
