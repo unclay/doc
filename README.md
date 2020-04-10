@@ -41,6 +41,12 @@ Community | Community | Community
 --- | --- | ---
 [云雀](https://www.yuque.com/) | |
 
+## 开源 CDN
+
+CDN | CDN | CDN
+--- | --- | ---
+[jsDelivr](https://www.jsdelivr.com/) | [BootCDN](https://www.bootcdn.cn/) |
+
 
 ## 语言学习
 
