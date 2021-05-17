@@ -3,7 +3,6 @@
 Team | Team | Team
 --- | --- | ---
 [腾讯全端AlloyTeam团队）](http://www.alloyteam.com) | [腾讯IMWeb团队](http://imweb.io) | [京东凹凸实验室](https://aotu.io)
-[阿里巴巴国际UED团队](http://www.aliued.com) | [阿里巴巴中文站UED](http://www.aliued.cn) | [淘宝前端团队](http://taobaofed.org)
 [百度前端研发部](http://fex.baidu.com) | [360奇舞周刊](https://weekly.75team.com)  | [有赞技术团队](https://tech.youzan.com)
 [美团技术团队](https://tech.meituan.com) |  | 
 
@@ -11,19 +10,18 @@ Team | Team | Team
 
 Community | Community | Community
 --- | --- | ---
-[前端乱炖](http://www.html-js.com) | [大前端](http://www.daqianduan.com) | [前端网](http://www.qdfuns.com)
+[前端乱炖](http://www.html-js.com) | [大前端](http://www.daqianduan.com) | [Github](https://github.com) 
 [CSDN](http://www.csdn.net) | [开源中国](https://www.oschina.net) | [CNODE](https://cnodejs.org)
 [掘金](https://juejin.im) | [segmentfault](https://segmentfault.com) | [V2EX](https://www.v2ex.com)
-[DIV.IO](https://div.io) | [Github](https://github.com) | [InfoQ 前端专栏](https://www.infoq.cn/topic/33)
+[InfoQ 前端专栏](https://www.infoq.cn/topic/33) | | 
 
 
 ## 英文社区
 
 Document | Document | Document
 --- | --- | ---
-[Stack Overflow](https://stackoverflow.com) | [Hacker News](https://news.ycombinator.com) | [InfoQ](https://www.infoq.com/)
-[JavaScript Weekly](https://javascriptweekly.com/issues) | [Google+](https://plus.google.com/) | [Medium](https://medium.com/)
-[freeCodeCamp](https://medium.freecodecamp.org/) |  |
+[Stack Overflow](https://stackoverflow.com) | [Medium](https://medium.com/) | [InfoQ](https://www.infoq.com/)
+[JavaScript Weekly](https://javascriptweekly.com/issues) | [Google+](https://plus.google.com/) | [freeCodeCamp](https://medium.freecodecamp.org/)
 
 
 ## 周刊
@@ -32,7 +30,7 @@ Weekly | Weekly | Weekly
 --- | --- | ---
 [奇舞周刊](https://weekly.75team.com) | [阮一峰分享周刊](https://github.com/ruanyf/weekly) | [JavaScript Weekly](https://javascriptweekly.com/latest)
 [Node Weekly](https://nodeweekly.com/latest) | [阿里 DT-FE 周刊](https://github.com/dt-fe/weekly) | [百度 FEX 周刊](http://fex.baidu.com/weekly/) |
-[阿里云前端技术周刊](https://github.com/aliyunfe/weekly) |  |
+[阿里云前端技术周刊](https://github.com/aliyunfe/weekly) | [sorrycc 前端周刊](https://github.com/sorrycc/weekly) |
 
 
 ## 文档社区
