@@ -115,3 +115,5 @@ Tool | Tool | Tool
 [图片压缩－tinypng](https://tinypng.com/) | [图片转 base64](http://tool.css-js.com/base64.html) | [智图：图片优化](http://zhitu.isux.us) 
 [合成精灵图、雪碧图](http://alloyteam.github.io/gopng/) | [字蛛](http://font-spider.org/) | [矢量图](http://www.iconfont.cn/)
 [压缩Dietmp3](http://www.softpedia.com/get/Multimedia/Audio/Audio-Convertors/DietMP3.shtml) | [下载Dietmp3](http://pan.baidu.com/s/1i4ozMrr) |
+[国内谷歌插件](http://crxdl.com/) |  |
+
