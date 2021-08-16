@@ -59,6 +59,7 @@ Interesting | Interesting | Interesting
 --- | --- | ---
 [世界人口](https://countrymeters.info/cn/World) | [AI人像](https://thispersondoesnotexist.com) | [IP 路径地图](https://tools.ipip.net/traceroute.php) |
 [头像生成器1](https://getavataaars.com) | [头像生成器2](https://friendlyfaces.co) | [邮箱生成器](http://24mail.chacuo.net/)
+[今天学什么](https://zh.wikihow.com/) | |
 
 ## 好文
 
