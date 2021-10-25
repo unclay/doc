@@ -65,7 +65,7 @@ Interesting | Interesting | Interesting
 
 Artical | Community | Community
 --- | --- | ---
-[7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83) | |
+[7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83) | [Typescript 4.4 备忘录](https://www.sitepen.com/blog/typescript-cheat-sheet)|
 
 
 ## 画图
