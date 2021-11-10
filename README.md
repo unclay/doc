@@ -39,6 +39,13 @@ Community | Community | Community
 --- | --- | ---
 [云雀](https://www.yuque.com/) | |
 
+## 加密工具
+
+encrypt | encrypt | encrypt
+--- | --- | ---
+[hashids](https://hashids.org/) | |
+
+
 ## 开源 CDN
 
 CDN | CDN | CDN
