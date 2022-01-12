@@ -13,7 +13,7 @@ Community | Community | Community
 [前端乱炖](http://www.html-js.com) | [大前端](http://www.daqianduan.com) | [Github](https://github.com) 
 [CSDN](http://www.csdn.net) | [开源中国](https://www.oschina.net) | [CNODE](https://cnodejs.org)
 [掘金](https://juejin.im) | [segmentfault](https://segmentfault.com) | [V2EX](https://www.v2ex.com)
-[InfoQ 前端专栏](https://www.infoq.cn/topic/33) | | 
+[InfoQ 前端专栏](https://www.infoq.cn/topic/33) | [一行代码](https://1loc.dev/) | 
 
 
 ## 英文社区
@@ -66,7 +66,7 @@ Interesting | Interesting | Interesting
 --- | --- | ---
 [世界人口](https://countrymeters.info/cn/World) | [AI人像](https://thispersondoesnotexist.com) | [IP 路径地图](https://tools.ipip.net/traceroute.php) |
 [头像生成器1](https://getavataaars.com) | [头像生成器2](https://friendlyfaces.co) | [邮箱生成器](http://24mail.chacuo.net/)
-[今天学什么](https://zh.wikihow.com/) | [顶级域名](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com) |
+[今天学什么](https://zh.wikihow.com/) | [顶级域名](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com) 
 
 ## 好文
 
