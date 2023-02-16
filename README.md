@@ -81,6 +81,12 @@ Drawing | Drawing | Drawing
 --- | --- | ---
 [代码画流程图](https://code2flow.com) | [里程碑图](https://time.graphics/) | [甘特图](https://app.geeseteam.com/)
 
+CodeImg | CodeImg | CodeImg
+--- | --- | ---
+[pika.style](https://pika.style/templates/code-image) | [chalk.ist](https://chalk.ist/) | [codetoimg](https://codetoimg.com/)
+[snappify.com](https://snappify.com/editor) | [carbon.now.sh](https://carbon.now.sh/) | [ray.so](https://ray.so/ )
+
+
 ## 常用
 
 Commonly | Commonly | Commonly
