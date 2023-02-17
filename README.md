@@ -65,8 +65,8 @@ Language | Language | Language
 Interesting | Interesting | Interesting
 --- | --- | ---
 [世界人口](https://countrymeters.info/cn/World) | [AI人像](https://thispersondoesnotexist.com) | [IP 路径地图](https://tools.ipip.net/traceroute.php) |
-[头像生成器1](https://getavataaars.com) | [头像生成器2](https://friendlyfaces.co) | [邮箱生成器](http://24mail.chacuo.net/)
-[今天学什么](https://zh.wikihow.com/) | [顶级域名](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com) 
+[头像生成器1](https://getavataaars.com) | [头像生成器2](https://friendlyfaces.co) | [头像生成器3](https://this-person-does-not-exist.com/zh)
+[今天学什么](https://zh.wikihow.com/) | [顶级域名](https://slc.is/#The%20Best%20TLD%20is%20Not%20.com) | [邮箱生成器](http://24mail.chacuo.net/)
 
 ## 好文
 
