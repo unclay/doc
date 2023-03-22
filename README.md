@@ -5,6 +5,12 @@ AI | AI | AI
 [ChatGPT](https://chat.openai.com/) | [必应Bing](https://www.bing.com/search?q=Bing+AI&showconv=1) | [文心一言](https://yiyan.baidu.com/)
 [Google Bard](https://bard.google.com/) | |
 
+## AI Prompt
+
+Prompt | Prompt | Prompt
+--- | --- | ---
+[ChatGPT 快捷指令](https://newzone.top/chatgpt/cn/) | [learn prompting](https://learnprompting.org/zh-Hans/docs/intro) |
+
 ## 前端团队
 
 Team | Team | Team
