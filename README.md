@@ -3,6 +3,7 @@
 AI | AI | AI
 --- | --- | ---
 [ChatGPT](https://chat.openai.com/) | [必应Bing](https://www.bing.com/search?q=Bing+AI&showconv=1) | [文心一言](https://yiyan.baidu.com/)
+[Google Bard](https://bard.google.com/) | |
 
 ## 前端团队
 
