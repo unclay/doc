@@ -1,3 +1,9 @@
+## AI
+
+AI | AI | AI
+--- | --- | ---
+[ChatGPT](https://chat.openai.com/) | [必应Bing](https://www.bing.com/search?q=Bing+AI&showconv=1) | [文心一言](https://yiyan.baidu.com/)
+
 ## 前端团队
 
 Team | Team | Team
@@ -74,6 +80,11 @@ Artical | Community | Community
 --- | --- | ---
 [7 Tricks with Resting and Spreading JavaScript Objects](https://blog.bitsrc.io/6-tricks-with-resting-and-spreading-javascript-objects-68d585bdc83) | [Typescript 4.4 备忘录](https://www.sitepen.com/blog/typescript-cheat-sheet)|
 
+## office
+
+office | office | office
+--- | --- | ---
+[闪击PPT](https://ppt.sankki.com/)
 
 ## 画图
 
