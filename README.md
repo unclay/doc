@@ -11,6 +11,14 @@ Prompt | Prompt | Prompt
 --- | --- | ---
 [ChatGPT 快捷指令](https://newzone.top/chatgpt/cn/) | [learn prompting](https://learnprompting.org/zh-Hans/docs/intro) |
 
+## AI Code
+
+Coding | Coding | Coding
+--- | --- | ---
+[[ChatGPT 快捷指令](https://codeium.com)](https://codeium.com/) |  |
+
+
+
 ## 前端团队
 
 Team | Team | Team
