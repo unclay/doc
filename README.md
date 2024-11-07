@@ -15,9 +15,13 @@ Prompt | Prompt | Prompt
 
 Coding | Coding | Coding
 --- | --- | ---
-[[ChatGPT 快捷指令](https://codeium.com)](https://codeium.com/) |  |
+[[ChatGPT 快捷指令](https://codeium.com)] |  |
 
+## 大模型
 
+大模型 | 大模型 | 大模型
+--- | --- | ---
+https://llm.hunyuan.tencent.com/|  |  |
 
 ## 前端团队
 
