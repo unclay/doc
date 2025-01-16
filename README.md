@@ -2,8 +2,9 @@
 
 AI | AI | AI
 --- | --- | ---
-[ChatGPT](https://chat.openai.com/) | [必应Bing](https://www.bing.com/search?q=Bing+AI&showconv=1) | [文心一言](https://yiyan.baidu.com/)
-[Google Bard](https://bard.google.com/) | [讯飞](https://xinghuo.xfyun.cn/desk)|
+[ChatGPT](https://chat.openai.com/chat) | [Google Gemini](https://gemini.google.com/app) | [文心一言](https://yiyan.baidu.com/)
+[Google Bard](https://bard.google.com/) | [讯飞](https://xinghuo.xfyun.cn/desk)| [必应Bing](https://www.bing.com/search?q=Bing+AI&showconv=1)
+[通义千问](https://tongyi.aliyun.com) | [纳米搜索](https://n.cn) | [字节豆包](https://www.doubao.com)
 
 ## AI Prompt
 
@@ -21,7 +22,12 @@ Coding | Coding | Coding
 
 大模型 | 大模型 | 大模型
 --- | --- | ---
-https://llm.hunyuan.tencent.com/|  |  |
+[hunyuan](https://llm.hunyuan.tencent.com/)| [ollama本地跑大模型](https://ollama.com) |  |
+
+## AI应用
+
+--- | --- | ---
+[通过描述需求就能创建并部署web应用](https://github.com/stackblitz/bolt.new) | [DeepL翻译工具](https://www.deepl.com)
 
 ## 前端团队
 
