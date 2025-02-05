@@ -2,9 +2,10 @@
 
 AI | AI | AI
 --- | --- | ---
-[ChatGPT](https://chat.openai.com/chat) | [Google Gemini](https://gemini.google.com/app) | [文心一言](https://yiyan.baidu.com/)
+[ChatGPT](https://chat.openai.com/chat) | [Google Gemini](https://gemini.google.com/app) | [DeepSeek](https://chat.deepseek.com/)
 [Google Bard](https://bard.google.com/) | [讯飞](https://xinghuo.xfyun.cn/desk)| [必应Bing](https://www.bing.com/search?q=Bing+AI&showconv=1)
 [通义千问](https://tongyi.aliyun.com) | [纳米搜索](https://n.cn) | [字节豆包](https://www.doubao.com)
+[文心一言](https://yiyan.baidu.com/) | | 
 
 ## AI Prompt
 
@@ -22,7 +23,7 @@ Coding | Coding | Coding
 
 大模型 | 大模型 | 大模型
 --- | --- | ---
-[hunyuan](https://llm.hunyuan.tencent.com/)| [ollama本地跑大模型](https://ollama.com) |  |
+[hunyuan](https://llm.hunyuan.tencent.com/)| [ollama本地跑大模型](https://ollama.com) | [深度探索DeepSeek](https://www.deepseek.com/) |
 
 ## AI应用
 
