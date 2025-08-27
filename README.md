@@ -141,7 +141,7 @@ Build  | Build  | Build
 
 TeamRule | TeamRule | TeamRule | TeamRule
 --- | --- | --- | ---
-[腾讯AlloyTeam前端团队](http://alloyteam.github.io/CodeGuide/) | [百度FEX前端团队](https://github.com/fex-team/styleguide/blob/master/css.md) | |
+[腾讯AlloyTeam前端团队](http://alloyteam.github.io/CodeGuide/) | [百度FEX前端团队](https://github.com/fex-team/styleguide/blob/master/css.md) | [Git Commit Rule](https://www.conventionalcommits.org/zh-hans/v1.0.0/)|
 
 ## 规范检查
 
